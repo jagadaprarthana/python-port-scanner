@@ -28,11 +28,17 @@ The script will then prompt you to enter the target IP address or hostname, the 
 
 Example:
 Enter your target IP or hostname: scanme.nmap.org
+
 Enter the start port: 1
+
 Enter end port: 100
+
 Starting scan on host: 45.33.32.180
+
 Progress: 100/100 ports scanned
+
 Port Scan Results:
+
 Port     Service         Status
 -------------------------------------------------------------------------------------
 22       ssh             Open
